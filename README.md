@@ -1,1 +1,1 @@
-# OfflineHandwrittenRecognition
+# OfflineHandwrittenRecognition  OCR
